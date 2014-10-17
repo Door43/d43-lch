@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lch:home|Door43 (lch)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lch|d43-lch repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lch/archive/master.zip|d43-lch.zip]]
+
+**Recent Changes**
+{{changes>ns = lch}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lch|Ethnologue data]]
+
